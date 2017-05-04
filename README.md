@@ -1,4 +1,5 @@
 # Butter - Bootstrap 4 Package
+Bootstrap 4 HTML, CSS, and JS Framework for Butter. 
 
 ## Installation
 

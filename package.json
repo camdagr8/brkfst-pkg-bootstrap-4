@@ -1,0 +1,22 @@
+{
+  "name": "brkfst-pkg-bootstrap-4",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 HTML, CSS, and JS Framework for Butter. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camdagr8/brkfst-pkg-bootstrap-4.git"
+  },
+  "keywords": [
+    "butter"
+  ],
+  "author": "Cam Tullos <cam@tullos.ninja> (http://cam.tullos.ninja)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/camdagr8/brkfst-pkg-bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/camdagr8/brkfst-pkg-bootstrap-4#readme"
+}
