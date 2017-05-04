@@ -1,0 +1,7 @@
+{
+  "styles": [
+    "themes/[THEME]/bootstrap-4/variables",
+    "./src/lib/bootstrap-4/assets/styles/bootstrap",
+    "themes/[THEME]/bootstrap-4/bootstrap"
+  ]
+}
