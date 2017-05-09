@@ -1,0 +1,1 @@
+$(function(){"function"==typeof $().tooltip&&$('[data-toggle="tooltip"]').tooltip(),"function"==typeof $().popover&&($('[data-toggle="popover"]').popover(),$('[data-toggle="popover-dismissable"]').popover())});

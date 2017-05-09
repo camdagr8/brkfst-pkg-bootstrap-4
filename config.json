@@ -1,8 +1,8 @@
 {
   "styles": [
-    "themes/[THEME]/bootstrap-4/variables",
+    "themes/bootstrap-4/variables",
     "./src/lib/bootstrap-4/assets/styles/bootstrap",
-    "themes/[THEME]/bootstrap-4/bootstrap"
+    "themes/bootstrap-4/bootstrap"
   ],
   "info": {
     "version": "4.0.0-alpha.6"
