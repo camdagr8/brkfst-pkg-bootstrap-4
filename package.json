@@ -1,6 +1,6 @@
 {
   "name": "brkfst-pkg-bootstrap-4",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bootstrap 4 HTML, CSS, and JS Framework for Butter. ",
   "main": "index.js",
   "scripts": {
